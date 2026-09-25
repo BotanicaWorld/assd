@@ -87,7 +87,7 @@
   },
   "peerDependencies": {
     "@elizaos/core": "workspace:*",
-    "git-workspace-service": "0.4.5"
+    "git-workspace-service": "0.4.6"
   },
   "dependencies": {
     "@octokit/rest": "^22.0.0",
@@ -114,7 +114,7 @@
     "@types/bun": "1.4.2",
     "@types/node": "^25.2.3",
     "bun-types": "1.4.2",
-    "git-workspace-service": "0.4.5",
+    "git-workspace-service": "0.4.6",
     "@typescript/native": "npm:typescript@^7.0.2",
     "typescript": "^6.0.3",
     "vitest": "^5.0.1",
