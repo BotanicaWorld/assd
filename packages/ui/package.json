@@ -740,7 +740,7 @@
     "@vitejs/plugin-react-swc": "^4.3.1",
     "esbuild": "^0.28.0",
     "fast-check": "^4.10.2",
-    "jsdom": "^29.0.0",
+    "jsdom": "^30.1.1",
     "pixelmatch": "^7.2.0",
     "playwright": "^1.63.0",
     "pngjs": "^7.0.0",
